@@ -1,0 +1,22 @@
+{
+    "name": "antonischasouras/php-ftp",
+    "description": "Simple, power and flexible FTP library",
+    "type": "library",
+    "keywords": ["ftp", "php-ftp", "php ftp"],
+    "homepage": "https://github.com/antonischas/php-ftp",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "antonischas",
+            "email": "xasourasantonis@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "PhpFtp": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
