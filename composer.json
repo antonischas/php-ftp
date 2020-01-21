@@ -1,5 +1,5 @@
 {
-    "name": "antonischasouras/php-ftp",
+    "name": "antonischas/php-ftp",
     "description": "Simple, power and flexible FTP library",
     "type": "library",
     "keywords": ["ftp", "php-ftp", "php ftp"],
